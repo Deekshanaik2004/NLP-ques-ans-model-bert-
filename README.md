@@ -35,9 +35,6 @@ source venv/bin/activate  # For Mac/Linux
 pip install -r requirements.txt
 
 4️⃣ Run the Application
-bash
-Copy
-Edit
 streamlit run qa_app.py
 Open your browser and visit:
 http://localhost:8501
