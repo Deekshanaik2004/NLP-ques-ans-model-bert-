@@ -23,8 +23,6 @@ question_answering_app/
 ## 💻 Installation & Running Instructions
 
 1️⃣ Clone the Repository
-
-```bash
 git clone https://github.com/Deekshanaik2004/question_answering_app.git
 cd question_answering_app
 
@@ -35,6 +33,7 @@ source venv/bin/activate  # For Mac/Linux
 
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Run the Application
 bash
 Copy
