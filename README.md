@@ -22,7 +22,7 @@ question_answering_app/
 
 ## 💻 Installation & Running Instructions
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/Deekshanaik2004/question_answering_app.git
